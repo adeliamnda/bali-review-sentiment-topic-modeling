@@ -1,2 +1,4 @@
 # bali-review-sentiment-topic-modeling
-This is a machine learning project that uses sentiment analysis and topic modeling of Bali tourism reviews on Google Maps
+The dataset was obtained from scraping reviews of 10 popular tourist attractions in Bali, including the attached images.
+
+In the data load section, it can be executed directly without downloading the data.
