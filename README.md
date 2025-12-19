@@ -2,7 +2,7 @@
 The dataset was obtained from scraping reviews of 10 popular tourist attractions in Bali, including the attached images.
 
 In every data load section, it can be executed directly without downloading the data.
-The dataset can also be accessed
+The dataset can be accessed
 [here](https://drive.google.com/drive/folders/1Sjl6dRlwrZgg1gTvD7AekPD0qE3oY9xI?usp=sharing)
 
 Execution:
